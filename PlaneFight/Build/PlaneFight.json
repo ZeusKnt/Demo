@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "PlaneFight.data.unityweb",
+"asmCodeUrl": "PlaneFight.asm.code.unityweb",
+"asmMemoryUrl": "PlaneFight.asm.memory.unityweb",
+"asmFrameworkUrl": "PlaneFight.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
